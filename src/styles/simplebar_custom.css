@@ -1,0 +1,20 @@
+/* SimpleBar Custom Styles */
+.simplebar-scrollbar::before {
+    background-color: #858FB4 !important;
+    opacity: 1 !important;
+    transition: none !important;
+  }
+  
+  .simplebar-track.simplebar-vertical {
+    background-color: transparent;
+  }
+  
+  .simplebar-scrollbar {
+    border-radius: 5px;
+    width: 10px;
+  }
+  
+  .simplebar-track {
+    margin-right: 1px;
+  }
+  
